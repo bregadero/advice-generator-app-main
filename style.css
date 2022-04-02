@@ -114,7 +114,7 @@ body {
     transition: transform .3s;
 }
 
-.dice button > img:hover {
+.dice button:hover img{
     transform: rotate(180deg);
 }
 
